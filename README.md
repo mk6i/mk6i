@@ -1,6 +1,6 @@
 ## Hello
 
-I'm currently working on an [Retro AIM Server](https://github.com/mk6i/retro-aim-server), an [AOL Instant Messenger](https://en.wikipedia.org/wiki/AIM_(software)) revival project.
+I'm currently working on [Retro AIM Server](https://github.com/mk6i/retro-aim-server), an [AOL Instant Messenger](https://en.wikipedia.org/wiki/AIM_(software)) revival project.
 
 Learn more about it on Youtube.
 
