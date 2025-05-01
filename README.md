@@ -4,7 +4,7 @@ I'm currently working on an [Retro AIM Server](https://github.com/mk6i/retro-aim
 
 Learn more about it on Youtube.
 
-* [MattKC](https://www.youtube.com/watch?v=taDOa2zIhlo)
-* My [presentation](https://youtu.be/QCXVUO2GSn8?si=5sawHLOEEpMLFFKU) at Jawncon 0x01 in 2024
-* [clabretro](https://www.youtube.com/watch?v=AEiYyMwW8gY&t=2309s)
+* [MattKC](https://youtu.be/taDOa2zIhlo?si=fItTKIiyRhcONFlG)
+* My [presentation](https://youtu.be/QCXVUO2GSn8?si=5sawHLOEEpMLFFKU]) at Jawncon 0x01 in 2024
+* [clabretro](https://youtu.be/AEiYyMwW8gY?si=b2NfSLdj-vK0BpTa&t=2309)
 * [Digital Scriptorium](https://youtu.be/GwbybRQZufc?si=xxeDyPdqs3WnYiCW)
