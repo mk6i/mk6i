@@ -1,6 +1,6 @@
 ## Hello
 
-I'm currently working on [Retro AIM Server](https://github.com/mk6i/retro-aim-server), an revival project for [OSCAR clients](https://en.wikipedia.org/wiki/OSCAR_protocol).
+I'm currently working on [Open OSCAR Server](https://github.com/mk6i/open-oscar-server), an revival project for [OSCAR clients](https://en.wikipedia.org/wiki/OSCAR_protocol).
 
 Learn more about it on Youtube.
 
