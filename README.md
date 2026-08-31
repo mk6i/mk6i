@@ -8,5 +8,5 @@ Learn more about it on Youtube.
 * [MattKC](https://youtu.be/taDOa2zIhlo)
 * [UFD Tech](https://www.youtube.com/shorts/Q-sjZnsd1KM)
 * My [presentation](https://youtu.be/QCXVUO2GSn8) at Jawncon 0x01 in 2024
-* [clabretro](https://youtu.be/AEiYyMwW8gY)
+* [clabretro](https://youtu.be/AEiYyMwW8gY&t=2309)
 * [Digital Scriptorium](https://youtu.be/GwbybRQZufc)
