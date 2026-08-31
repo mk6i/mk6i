@@ -4,7 +4,9 @@ I'm currently working on [Open OSCAR Server](https://github.com/mk6i/open-oscar-
 
 Learn more about it on Youtube.
 
-* [MattKC](https://youtu.be/taDOa2zIhlo?si=fItTKIiyRhcONFlG)
-* My [presentation](https://youtu.be/QCXVUO2GSn8?si=5sawHLOEEpMLFFKU]) at Jawncon 0x01 in 2024
-* [clabretro](https://youtu.be/AEiYyMwW8gY?si=b2NfSLdj-vK0BpTa&t=2309)
-* [Digital Scriptorium](https://youtu.be/GwbybRQZufc?si=xxeDyPdqs3WnYiCW)
+* [Veronica Explains](https://youtu.be/VDQTuJWST4M)
+* [MattKC](https://youtu.be/taDOa2zIhlo)
+* [UFD Tech](https://www.youtube.com/shorts/Q-sjZnsd1KM)
+* My [presentation](https://youtu.be/QCXVUO2GSn8) at Jawncon 0x01 in 2024
+* [clabretro](https://youtu.be/AEiYyMwW8gY)
+* [Digital Scriptorium](https://youtu.be/GwbybRQZufc)
